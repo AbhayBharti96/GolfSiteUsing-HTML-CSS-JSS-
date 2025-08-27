@@ -33,7 +33,12 @@ Golf-Website/
 ---
 
 ## 🖼️ Preview   
-
+<p align="center">
+  <img src="https://github.com/AbhayBharti96/GolfSiteUsing-HTML-CSS-JSS-/blob/main/Screenshot%202025-08-27%20203539.png" 
+       alt="Golf Website Preview" 
+       width="900" 
+       style="border-radius:15px;" />
+</p>
 
 ---
 
